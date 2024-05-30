@@ -1,0 +1,114 @@
+div{
+    background-color: rgb(146, 146, 146);
+    color: black;
+    width: 1520px;
+    height: 110px;
+}
+/**img{
+    padding-left: 180px;
+}**/
+
+li{
+    display: flex;
+    display: inline-flex;
+    justify-content: space-evenly;
+    color: pink;
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.counter-text{
+    background-color: white;
+    color: brown;
+    font-size: 35px;
+    display: flex;
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+.nexabar{
+    color: black;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.one{
+    color:white;
+    background-color: rgb(21, 21, 151);;
+    font-size: 28px;
+    margin-top: 40px;
+    margin-left: 500px;
+    border-radius: 8px;
+}
+.two{
+    color: white;
+    background-color: rgb(21, 21, 151);
+    font-size: 28px;
+    margin-top: 40px;
+    border-radius: 8px;
+    margin-left: 70px;
+}
+.container{
+    display: flex;
+}
+.image{
+    flex: 1;
+    margin-right: 20px;
+}
+.text{
+    flex: 2;
+}
+
+
+.image{
+    margin-left: 60px;
+    background-color: white;
+}
+div.container{
+    background-color: white;
+}
+div.text{
+    background-color: white;
+    font-size: 20px;
+}
+.buti{
+    color: white;
+    background-color: rgb(21, 21, 151);;
+    margin-left: 300px;
+    font-size: 22px;
+    border-radius: 10px
+    
+}
+
+h1{
+    text-align: center;
+    padding-top: 300px;
+}
+
+.out{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.pk{
+    position: relative;
+    left: 120px;
+}
+.being{
+    text-align: center;
+    font-size: 30px;
+
+}
+.herry{
+    position: relative;
+    left: 60px;
+}
+.bobo{   
+    
+    height: 450px;
+    width: 1500px;
+}
+
+.coco{
+    
+    position: relative;
+    top: 20px;
+}
